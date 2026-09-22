@@ -421,7 +421,7 @@ io_link-gateways/
 
 [1] Pinetek Systems s.r.o.: IOL HAT Pro PT-1203 — IO-Link Master HAT für Raspberry Pi. Produktdatenblatt und technische Dokumentation. Online: <https://www.pinetek-networks.com/iol-hat-pro/>, abgerufen: 2026.
 
-[2] ifm electronic gmbh: Kapazitiver Sensor KG6000 — Technische Daten und IODD-Beschreibung. Artikelnummer: KG6002. Online: <https://www.ifm.com/de/de/products/KG6002.html>, abgerufen: 2026.
+[2] ifm electronic gmbh: Kapazitiver Sensor KG6000 — Technische Daten und IODD-Beschreibung. Artikelnummer: KG6002. Online: <https://www.ifm.com/de/de/product/KG6000>, abgerufen: 2026.
 
 [3] Raspberry Pi Ltd.: Raspberry Pi 5 — Produktdatenblatt und Hardwaredokumentation. Online: <https://www.raspberrypi.com/products/raspberry-pi-5/>, abgerufen: 2026.
 
